@@ -5,8 +5,6 @@
 
 <h1 align="center">Oumuamua</h1>
 
-[](https://solarsystem.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUE4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8f2b23b22e5037f159400107486c471c2b96ed9/comet20171025-16.gif)
-
 **[Oumuamua](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)** The first confirmed object from another star to visit our solar system, this interstellar interloper appears to be a rocky, cigar-shaped object with a somewhat reddish hue. The object, named ‘Oumuamua by its discoverers, is up to one-quarter mile (400 meters) long and highly-elongated—perhaps 10 times as long as it is wide.
 
 <div align="center">
